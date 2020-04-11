@@ -10,7 +10,7 @@ class MusicImporter
   end
   
   def files
-    @@all
+    
   end
 
   def import()
